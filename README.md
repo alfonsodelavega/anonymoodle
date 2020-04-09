@@ -1,0 +1,2 @@
+# anonymoodle
+Moodle log anonymizer
