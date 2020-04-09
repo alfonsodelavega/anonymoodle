@@ -1,2 +1,2 @@
 # anonymoodle
-Moodle log anonymizer
+Moodle log anonymizer (doc inside anonymoodle.py)
